@@ -1,0 +1,20 @@
+{
+  "name": "ts-allow-js",
+  "version": "1.0.0",
+  "description": "TypeScript with ES6 via Babel boilerplate.",
+  "main": "./dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "katopz <katopz@gmail.com> (https://katopz.github.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.1",
+    "babel-eslint": "^6.1.2",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.11.6",
+    "eslint": "^3.3.1"
+  }
+}
